@@ -21,5 +21,5 @@ Soy un estudiante apasionado por la tecnología y el desarrollo web. Actualmente
 
 ### 📊 Mis estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlesBiliato&show_icons=true&theme=tokyonight" alt="Estadísticas" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=AlesBiliato&show_icons=true&theme=tokyonight" alt="Estadísticas" />
 </p>
