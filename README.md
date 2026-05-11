@@ -52,21 +52,21 @@ Web multipágina responsive para un campus de voleibol, desarrollada como proyec
 **Características del proyecto:**
 
 - Diseño responsive para móvil, tablet y escritorio.
-- Maquetación organizada con Sass.
 - Estructura multipágina.
+- Maquetación organizada con Sass.
+- Uso de Vite como entorno de desarrollo.
 - Publicación del proyecto en Netlify.
 - Código versionado en GitHub.
 
-🔗 **Web publicada:** `AQUÍ_TU_ENLACE_DE_NETLIFY`  
-📁 **Repositorio:** `AQUÍ_TU_ENLACE_DEL_REPOSITORIO`
+🔗 **Web publicada:** [campus-camila-hiruela.netlify.app](https://campus-camila-hiruela.netlify.app/)  
+📁 **Repositorio:** [github.com/AlesBiliato/campus-camila-hiruela](https://github.com/AlesBiliato/campus-camila-hiruela)
 
 ---
 
 ## 📫 Contacto
 
 - GitHub: [AlesBiliato](https://github.com/AlesBiliato)
-- Email: `TU_EMAIL`
-- LinkedIn: `TU_LINKEDIN_SI_LO_TIENE`
+- Email: [alessbiliato@gmail.com](mailto:alessbiliato@gmail.com)
 
 ---
 
