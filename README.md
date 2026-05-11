@@ -1,25 +1,73 @@
 # ¡Hola! Soy Alessandro Biliato 👋
 
-Soy un estudiante apasionado por la tecnología y el desarrollo web. Actualmente estoy construyendo mis bases en programación y aprendiendo a manejar entornos de desarrollo profesionales con Linux y Git.
+Estoy formándome como desarrollador web, con especial interés en la maquetación frontend y la creación de páginas web responsive.
 
-### 🚀 Sobre mí
-- 🎓 Me estoy formando como desarrollador en: **ConquerBlocks Academy.**
-- 🔭 Actualmente estoy trabajando en: **Mis primeros proyectos web y aprendiendo a dominar la terminal.**
-- 🌱 Estoy aprendiendo: **HTML5, CSS3, Git & GitHub, y manejo de línea de comandos (Bash/Zsh).**
-- 👯 Busco colaborar en: **Proyectos sencillos de código abierto para principiantes.**
-- ⚡ Dato curioso: **Configuré mi propio entorno de desarrollo en WSL con Zsh y Powerlevel10k.**
+Actualmente trabajo con HTML, CSS, Sass, Git, GitHub, Vite y despliegue en Netlify. Busco una primera oportunidad como maquetador web junior, frontend trainee o prácticas de desarrollo web, donde pueda seguir creciendo y aportar en proyectos reales.
 
-### 🛠️ Tecnologías y Herramientas
+---
+
+## 🚀 Sobre mí
+
+- 🎓 Me estoy formando en desarrollo web en **ConquerBlocks Academy**.
+- 💻 Desarrollo páginas web responsive con **HTML, CSS y Sass**.
+- 🧱 Estoy reforzando mis conocimientos en **Flexbox, Grid, responsive design y buenas prácticas de maquetación**.
+- ⚙️ Uso **Git y GitHub** para organizar y versionar mis proyectos.
+- 🚀 Trabajo con **Vite** como entorno de desarrollo y publico proyectos en **Netlify**.
+- 🌱 Actualmente estoy mejorando mi nivel de **JavaScript** para crear proyectos más interactivos.
+- 🎯 Mi objetivo es conseguir una primera oportunidad en **maquetación web, frontend trainee o desarrollo web junior**.
+
+---
+
+## 🛠️ Tecnologías y herramientas
+
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript_básico-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
 </p>
 
-### 📊 Mis estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=AlesBiliato&show_icons=true&theme=tokyonight" alt="Estadísticas" />
-</p>
+---
+
+## 📌 Proyecto destacado
+
+### Campus Camila Hiruela
+
+Web multipágina responsive para un campus de voleibol, desarrollada como proyecto de práctica de maquetación web.
+
+**Tecnologías utilizadas:**
+
+- HTML5
+- CSS3 / Sass
+- JavaScript básico
+- Vite
+- Git y GitHub
+- Netlify
+
+**Características del proyecto:**
+
+- Diseño responsive para móvil, tablet y escritorio.
+- Maquetación organizada con Sass.
+- Estructura multipágina.
+- Publicación del proyecto en Netlify.
+- Código versionado en GitHub.
+
+🔗 **Web publicada:** `AQUÍ_TU_ENLACE_DE_NETLIFY`  
+📁 **Repositorio:** `AQUÍ_TU_ENLACE_DEL_REPOSITORIO`
+
+---
+
+## 📫 Contacto
+
+- GitHub: [AlesBiliato](https://github.com/AlesBiliato)
+- Email: `TU_EMAIL`
+- LinkedIn: `TU_LINKEDIN_SI_LO_TIENE`
+
+---
+
+Gracias por visitar mi perfil 👋
